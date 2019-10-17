@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-09 12:12+0530\n"
+"PO-Revision-Date: 2018-08-09 12:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: featured-plugins/featured-plugins.php:96
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: featured-plugins/featured-plugins.php:157
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+#: featured-plugins/featured-plugins.php:168
+msgid "Install Now"
+msgstr "अभी स्थापित करें"
+
+#: featured-plugins/featured-plugins.php:175
+msgid "Update Now"
+msgstr "अभी अद्यतन करें"
+
+#: featured-plugins/featured-plugins.php:239
+msgid "Last Updated:"
+msgstr "आखरी अपडेट:"
+
+#: filter-gallery-settings.php:55
+msgid "1. Filter Gallery Thumbnail Size"
+msgstr "1. गैलरी थंबनेल आकार"
+
+#: filter-gallery-settings.php:59
+msgid "Thumbnail - 150 x 150"
+msgstr "थंबनेल - 150 × 150"
+
+#: filter-gallery-settings.php:60
+msgid "Medium - 300 x 169"
+msgstr "मध्यम - 300 × 16 9"
+
+#: filter-gallery-settings.php:61
+msgid "Large - 840 x 473"
+msgstr "बड़ा - 840 × 473"
+
+#: filter-gallery-settings.php:62
+msgid "Full Size - 1280 x 720"
+msgstr "पूर्ण आकार - 1280 × 720"
+
+#: filter-gallery-settings.php:64
+msgid "Select filter gallery thumbnails size to display into filter gallery"
+msgstr "गैलरी में प्रदर्शित करने के लिए गैलरी थंबनेल आकार का चयन करें"
+
+#: filter-gallery-settings.php:70
+msgid "2. Columns Settings"
+msgstr "2. कॉलम लेआउट सेटिंग्स"
+
+#: filter-gallery-settings.php:72
+msgid "Columns On Large Desktops"
+msgstr "अ. बड़े डेस्कटॉप पर ए कॉलम"
+
+#: filter-gallery-settings.php:75 filter-gallery-settings.php:83 filter-gallery-settings.php:93
+#: filter-gallery-settings.php:101
+msgid "2 Column"
+msgstr "2 कॉलम"
+
+#: filter-gallery-settings.php:76 filter-gallery-settings.php:84 filter-gallery-settings.php:94
+#: filter-gallery-settings.php:102
+msgid "3 Column"
+msgstr "3 कॉलम"
+
+#: filter-gallery-settings.php:78
+msgid "Select filter gallery column layout for large desktop devices"
+msgstr "बड़े डेस्कटॉप उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: filter-gallery-settings.php:80
+msgid "Columns On Desktops"
+msgstr "ब. डेस्कटॉप पर कॉलम"
+
+#: filter-gallery-settings.php:86
+msgid "Select filter gallery column layout for desktop devices"
+msgstr "डेस्कटॉप उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: filter-gallery-settings.php:90
+msgid "Columns On Tablets"
+msgstr "स. टैबलेट पर कॉलम"
+
+#: filter-gallery-settings.php:96
+msgid "Select filter gallery column layout for tablet devices"
+msgstr "टैबलेट उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: filter-gallery-settings.php:98
+msgid "Columns On Phones"
+msgstr "द.फोन पर कॉलम"
+
+#: filter-gallery-settings.php:104
+msgid "Select filter gallery column layout for phone devices"
+msgstr "फोन उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: filter-gallery-settings.php:108
+msgid "3. Image Hover Effect Type"
+msgstr "3. छवि होवर प्रभाव प्रकार"
+
+#: filter-gallery-settings.php:114 filter-gallery-settings.php:143
+msgid "None"
+msgstr "कोई नहीं"
+
+#: filter-gallery-settings.php:116
+msgid "Shadow & Glow"
+msgstr "छाया और चमक"
+
+#: filter-gallery-settings.php:117
+msgid "Select a image hover effect type"
+msgstr "एक छवि होवर प्रभाव प्रकार का चयन करें"
+
+#: filter-gallery-settings.php:121
+msgid "Image Hover Effects"
+msgstr "छवि मंडराने का प्रभाव"
+
+#: filter-gallery-settings.php:125
+msgid "Grow Shadow"
+msgstr "छाया बढ़ो"
+
+#: filter-gallery-settings.php:126
+msgid "Float Shadow"
+msgstr "छाया फ्लोट"
+
+#: filter-gallery-settings.php:127
+msgid "Glow"
+msgstr "बढ़ो"
+
+#: filter-gallery-settings.php:129
+msgid "Box Shadow Outset"
+msgstr "डब्बे की छाया शुरू"
+
+#: filter-gallery-settings.php:130
+msgid "Box Shadow Inset"
+msgstr "डब्बे की छाया क्षेपक"
+
+#: filter-gallery-settings.php:133
+msgid "Set an image hover effect on gallery"
+msgstr "गैलरी पर एक छवि / फोटो मंडराने का प्रभाव सेट करें"
+
+#: filter-gallery-settings.php:139
+msgid "4. Light Box Style"
+msgstr "4. लाइट बॉक्स स्टाइल"
+
+#: filter-gallery-settings.php:144
+msgid "Bootstrap 3 Light Box"
+msgstr "बूटस्ट्रैप 3 लाइट बॉक्स"
+
+#: filter-gallery-settings.php:146
+msgid "Select a light box style"
+msgstr "एक लाइट बॉक्स शैली का चयन करें"
+
+#: filter-gallery-settings.php:152
+msgid "5. Filter Background Color"
+msgstr "5. फ़िल्टर पृष्ठभूमि रंग"
+
+#: filter-gallery-settings.php:157
+msgid "White"
+msgstr "सफेद"
+
+#: filter-gallery-settings.php:159
+msgid "Red"
+msgstr "लाल"
+
+#: filter-gallery-settings.php:161
+msgid "Green"
+msgstr "हरा"
+
+#: filter-gallery-settings.php:163
+msgid "Blue"
+msgstr "नीला"
+
+#: filter-gallery-settings.php:164
+msgid "Chose a color for filter background"
+msgstr "फ़िल्टर पृष्ठभूमि के लिए एक रंग चुनो"
+
+#: filter-gallery-settings.php:171
+msgid "6. Image Gray Scale (Gray Effect)"
+msgstr "6. छवि ग्रे स्केल (ग्रे प्रभाव)"
+
+#: filter-gallery-settings.php:176 filter-gallery-settings.php:206 filter-gallery-settings.php:220
+msgid "Yes"
+msgstr "हाँ"
+
+#: filter-gallery-settings.php:178 filter-gallery-settings.php:208 filter-gallery-settings.php:222
+msgid "No"
+msgstr "नहीं"
+
+#: filter-gallery-settings.php:179
+msgid "Select gray scale on images"
+msgstr "छवियों पर ग्रे पैमाने का चयन करें"
+
+#: filter-gallery-settings.php:186
+msgid "7. Title On Thumbnail"
+msgstr "7. थंबनेल पर शीर्षक"
+
+#: filter-gallery-settings.php:191
+msgid "Show"
+msgstr "प्रदर्शन"
+
+#: filter-gallery-settings.php:193
+msgid "Hide"
+msgstr "छिपाना"
+
+#: filter-gallery-settings.php:194
+msgid "Show or hide title on your thumbnails"
+msgstr "अपने थंबनेल पर शीर्षक दिखाएं या छुपाएं"
+
+#: filter-gallery-settings.php:201
+msgid "9. Show Numbering On Thumbnails"
+msgstr ""
+
+#: filter-gallery-settings.php:209
+msgid "Show numbering on thumbnails"
+msgstr "थंबनेल पर नंबरिंग दिखाएं"
+
+#: filter-gallery-settings.php:215
+msgid "10. Hide Thumbnails Spacing"
+msgstr "10. थंबनेल रिक्ति छुपाएं"
+
+#: filter-gallery-settings.php:223
+msgid "Hide gap / margin / padding / spacing between gallery thumbnails"
+msgstr "गैलरी थंबनेल के बीच अंतर / मार्जिन / पैडिंग / रिक्ति छुपाएं"
+
+#: filter-gallery-settings.php:230
+msgid "11. Open Image Link URL"
+msgstr "11. खोलें लिंक यूआरएल"
+
+#: filter-gallery-settings.php:235
+msgid "Into New Tab"
+msgstr "नए टैब में"
+
+#: filter-gallery-settings.php:237
+msgid "Into Same Tab"
+msgstr "उसी टैब में"
+
+#: filter-gallery-settings.php:238
+msgid "Set a image URL opening target"
+msgstr "एक छवि यूआरएल खोलने का लक्ष्य सेट करें"
+
+#: filter-gallery-settings.php:245
+msgid "12. Custom CSS"
+msgstr "12. कस्टम सीएसएस"
+
+#: filter-gallery-settings.php:250
+msgid "Apply own css on image gallery and dont use style tag"
+msgstr "छवि गैलरी पर अपने सीएसएस लागू करें और स्टाइल टैग का उपयोग न करें"
+
+#: filters-gallery-output.php:158 pfg-bootstrap-lightbox.php:156
+msgid "Sorry! No image gallery found "
+msgstr "माफ़ कीजिये! कोई छवि गैलरी नहीं मिली"
+
+#: filters.php:22 filters.php:26
+msgid "Add New Category"
+msgstr "नई श्रेणी जोड़ें"
+
+#: filters.php:28
+msgid "Type Category Name"
+msgstr "श्रेणी का नाम टाइप करें"
+
+#: filters.php:31
+msgid "Add Category"
+msgstr "श्रेणी जोड़ें"
+
+#: filters.php:50 filters.php:240 filters.php:328
+msgid "Category Name"
+msgstr "श्रेणी नाम"
+
+#: filters.php:51 filters.php:241 filters.php:329
+msgid "Action"
+msgstr "क्रिया"
+
+#: filters.php:92 filters.php:282
+msgid "You can only add 5 category in free version for more upgrade to our pro version"
+msgstr "आप हमारे प्रो संस्करण में अधिक अपग्रेड के लिए केवल 5 संस्करण मुफ्त संस्करण में जोड़ सकते हैं"
+
+#: filters.php:300 filters.php:305
+msgid "Update Category"
+msgstr "अद्यतन श्रेणी"
+
+#: portfolio-filter-gallery.php:32 portfolio-filter-gallery.php:102
+msgid "Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी"
+
+#: portfolio-filter-gallery.php:78
+msgid "Filters"
+msgstr "फिल्टर"
+
+#: portfolio-filter-gallery.php:79
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: portfolio-filter-gallery.php:80
+msgid "Featured-plugin"
+msgstr "विशेष प्लगइन"
+
+#: portfolio-filter-gallery.php:80
+msgid "Featured plugin"
+msgstr "विशेष प्लगइन"
+
+#: portfolio-filter-gallery.php:81
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: portfolio-filter-gallery.php:88
+msgid "Portfolio Gallery"
+msgstr "पोर्टफोलियो गैलरी"
+
+#: portfolio-filter-gallery.php:89
+msgid "Portfolio Filter"
+msgstr "पोर्टफोलियो फ़िल्टर"
+
+#: portfolio-filter-gallery.php:90
+msgid "Parent Item:"
+msgstr "अभिभावक आइटम:"
+
+#: portfolio-filter-gallery.php:91
+msgid "All Gallery"
+msgstr "सभी गैलरी"
+
+#: portfolio-filter-gallery.php:92 portfolio-filter-gallery.php:93
+msgid "Add New Gallery"
+msgstr "न्गैलरी जोड़ें"
+
+#: portfolio-filter-gallery.php:94
+msgid "New Portfolio Filter Gallery"
+msgstr "नई पोर्टफोलियो फ़िल्टर गैलरी"
+
+#: portfolio-filter-gallery.php:95
+msgid "Edit Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी संपादित करें"
+
+#: portfolio-filter-gallery.php:96
+msgid "Update Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी अपलोड करें"
+
+#: portfolio-filter-gallery.php:97
+msgid "Search Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी खोजें"
+
+#: portfolio-filter-gallery.php:98
+msgid "Portfolio Filter Gallery Not found"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी नहीं मिला"
+
+#: portfolio-filter-gallery.php:99
+msgid "Portfolio Filter Gallery Not found in Trash"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी ट्रैश में नहीं मिला"
+
+#: portfolio-filter-gallery.php:103
+msgid "Custom Post Type For Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#: portfolio-filter-gallery.php:125
+msgid "Add Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो फ़िल्टर गैलरी जोड़ें"
+
+#: portfolio-filter-gallery.php:126
+msgid "Upgrade Portfolio Gallery Pro"
+msgstr "पोर्टफोलियो गैलरी प्रो अपग्रेड करें"
+
+#: portfolio-filter-gallery.php:127
+msgid "Rate Our Plugin"
+msgstr "हमारे प्लगइन को रेट करें"
+
+#: portfolio-filter-gallery.php:163
+msgid "First add filters for images by clicking filters menu."
+msgstr "पहले फिल्टर मेनू पर क्लिक करके छवियों के लिए फ़िल्टर जोड़ें।"
+
+#: portfolio-filter-gallery.php:164
+msgid ""
+"Please do not reapeat images. Use control ( Ctrl ) or shift ( Shift ) key for select multiple "
+"filters. For unselect filters use ( Ctrl ) key."
+msgstr ""
+"कृपया छवियों को दोहराएं मत। कई फ़िल्टरों के लिए नियंत्रण (Ctrl) या Shift (Shift) कुंजी का उपयोग करें। फ़िल्टर का "
+"चयन रद्द करने के लिए (Ctrl) कुंजी का उपयोग करें।"
+
+#: portfolio-filter-gallery.php:166
+msgid "Delete All Images"
+msgstr "सभी छवियों को हटाएं"
+
+#: portfolio-filter-gallery.php:218
+msgid "Add Image"
+msgstr "छवि जोड़ें"
+
+#: portfolio-filter-gallery.php:227
+msgid "Copy & Embed shortcode into any Page/ Post / Text Widget to display your gallery on site."
+msgstr ""
+"साइट पर अपनी गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में कॉपीकोड एम्बेड करें और एम्बेड करें।"

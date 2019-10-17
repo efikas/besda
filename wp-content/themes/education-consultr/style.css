@@ -1,0 +1,91 @@
+/*
+Theme Name: Education Consultr
+Theme URI: https://keonthemes.com/downloads/education-consultr/
+Author: Keon Themes
+Author URI: https://keonthemes.com/
+Description: Education Consultr is a beautiful and elegant blue color schemed child theme of Business Consultr. Theme Demo: https://keonthemes.com/theme-demo/?id=MjA0NXxlZHVjYXRpb24tY29uc3VsdHJ8RWR1Y2F0aW9uIENvbnN1bHRy
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: business-consultr
+Text Domain: education-consultr
+Tags: blog, portfolio, education, grid-Layout, two-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*======================================*/
+/* Primary color */
+/*======================================*/
+
+/*======================================*/
+/* Background Primary color */
+/*======================================*/
+body .top-header, body .icon-block-outer:hover, body .icon-block-outer:focus, body .icon-block-outer:active, body #go-top span:hover, body #go-top span:focus, body #go-top span:active, body .page-numbers.current, body .sub-title:before, body .searchform .search-button {
+	background-color: #30344d;
+}
+
+/*======================================*/
+/* Primary border color */
+/*======================================*/
+body .top-header, body .block-portfolio.block-grid .post-content:hover .post-content-inner, body .block-portfolio.block-grid .post-content:focus .post-content-inner, body .block-portfolio.block-grid .post-content:active .post-content-inner, body #go-top span:hover, body #go-top span:focus, body #go-top span:active, body .main-navigation ul ul, body .page-numbers.current, body .searchform .search-button {
+	border-color: #30344d;
+}
+
+/*======================================*/
+/* Primary text color */
+/*======================================*/
+
+body .icon-block-outer .icon-outer span, body .icon-block-outer .icon-content-area .button-container .button-text, body .icon-block-outer .icon-content-area .button-container .button-text:before, body .block-testimonial .slide-item article.post-content .post-content-inner .post-title cite span  {
+	color: #30344d;
+}
+
+body .block-top-footer, body .site-footer {
+    background-color: #22253a;
+}
+
+body .block-top-footer strong {
+    color: #b9b9b9;
+}
+
+/*======================================*/
+/* Secondary color */
+/*======================================*/
+
+/*======================================*/
+/* Secondary background color */
+/*======================================*/
+body .button-primary, body .block-contact .contact-form-section input[type="submit"], body .block-contact .kt-contact-form-area .form-group input.form-control[type="submit"], body .wrap-detail-page .contact-form-section input[type="submit"], body .wrap-detail-page .kt-contact-form-area .form-group input.form-control[type="submit"], body .block-grid .post-content .post-content-inner span.cat a, body .block-grid .post-content .post-content-inner .button-container .post-footer-detail .post-format-outer > span a, body .block-grid .post-content .post-content-inner .button-container .post-footer-detail .post-format-outer > span span, body .comments-area .comment-respond .comment-form .submit {
+	background-color: #038875;
+}
+
+/*======================================*/
+/* Secondary border color */
+/*======================================*/
+body .button-primary, body .block-contact .contact-form-section input[type="submit"], body .wrap-detail-page .contact-form-section input[type="submit"], body .wrap-detail-page .kt-contact-form-area .form-group input.form-control[type="submit"], body .block-contact .kt-contact-form-area .form-group input.form-control[type="submit"], body .comments-area .comment-respond .comment-form .submit, body .block-contact .kt-contact-form-area .form-group input.form-control:focus, body .block-contact .kt-contact-form-area .form-group input.form-control:active, body .block-contact .kt-contact-form-area .form-group textarea.form-control:focus, body .block-contact .kt-contact-form-area .form-group textarea.form-control:active, body .wrap-detail-page .kt-contact-form-area .form-group input.form-control:focus, body .wrap-detail-page .kt-contact-form-area .form-group input.form-control:active, body .wrap-detail-page .kt-contact-form-area .form-group textarea.form-control:focus, body .wrap-detail-page .kt-contact-form-area .form-group textarea.form-control:active {
+	border-color: #038875;
+}
+
+/*======================================*/
+/* Alternate color */
+/*======================================*/
+
+/*======================================*/
+/* Alternate border color */
+/*======================================*/
+body .block-portfolio.block-grid .post-content .post-content-inner {
+	border-color: #038875;
+}
+
+div.elementor-widget-google_maps#map-wrapper > div.elementor-widget-container > div.elementor-custom-embed > iframe {
+	height: 700px !important;
+}
+
+.wpcf7-form label{
+	width: 100% !important;
+}
+
+.wpcf7-form .wpcf7-form-control {
+	margin-top: 10px !important;
+}

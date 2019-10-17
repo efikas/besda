@@ -1,0 +1,53 @@
+== Changelog ==
+
+= 1.2.1 =
+* Added support for wp_body_open action.
+* Making Accessibility Ready ( Skip to link ).
+* Added theme info files.
+
+= 1.2.0 =
+* RSS feed social icon supported.
+
+= 1.1.9 =
+* Added Gutenberg compatibility.
+* Header and Slider image sizes updated. Now, the recommeded image size for header is 1920px X 380px and for slider 1920px X 750px.
+* Header search disable/enable option added.
+* Style issues fixed.
+
+= 1.1.8 =
+* Top header contact detail width increased.
+* Minified version of custom script used.
+
+= 1.1.7 =
+* Minor Style Fixed.
+
+= 1.1.6 =
+* A missing text domain added.
+
+= 1.1.5 =
+* Added text and button disable/enable option to service items.
+* Minor Script and Style updated.
+
+= 1.1.4 =
+* Updated a placeholder image size.
+* PHP count while page not selected warning fixed.
+* Added box shadow for fixed header.
+
+= 1.1.3 =
+* Adding more social icons support: blogger, delicious, deviantart, dribbble, flickr, googledrive, linkedin, myspace, picassa, plus.google, rss, share, skype, spotify, tumbleupon, tumblr and vimeo.
+
+= 1.1.2 =
+* Home Slider slide items equal height issue fixed.
+
+= 1.1.1 =
+* Inner banner title and description issue fixed.
+
+= 1.1.0 =
+* Slider Disable/Enable Feature Added.
+* Slider Banner Overlay Disable/Enable Feature Added.
+
+= 1.0.1 =
+* Theme Description Demo URL Updated.
+
+= 1.0.0 =
+* Initial release.
